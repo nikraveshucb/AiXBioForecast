@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+plotly.express
+seaborn
+openpyxl
+xlrd==1.2.0
+scikit-learn
+yellowbrick
+lightgbm
